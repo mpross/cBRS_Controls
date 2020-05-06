@@ -1,10 +1,10 @@
-BRSReadout Non-commercial License
+cBRS_controls Non-commercial License
 
 © 2016-2018 University of Washington.
 
 Redistribution and use for noncommercial purposes in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
-1. The software is used solely for noncommercial purposes. It may not be used indirectly for commercial use, such as on a website that accepts advertising money for content. Noncommercial use does include use by a for-profit company in its research. For commercial use rights, contact University of Washington, CoMotion, at license@uw.edu or call 206-543-3970 and inquire about the BRSReadout project.
+1. The software is used solely for noncommercial purposes. It may not be used indirectly for commercial use, such as on a website that accepts advertising money for content. Noncommercial use does include use by a for-profit company in its research. For commercial use rights, contact University of Washington, CoMotion, at license@uw.edu or call 206-543-3970 and inquire about the cBRS_controls project.
 
 2. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
 
