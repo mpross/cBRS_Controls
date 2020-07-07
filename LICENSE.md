@@ -1,6 +1,6 @@
 cBRS_controls Non-commercial License
 
-© 2016-2018 University of Washington.
+Â© 2016-2020 University of Washington.
 
 Redistribution and use for noncommercial purposes in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
